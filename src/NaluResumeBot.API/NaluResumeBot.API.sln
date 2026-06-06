@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaluResumeBot.API", "NaluResumeBot.API\NaluResumeBot.API.csproj", "{B0506411-AC0E-494D-8C54-7CF6B18AC382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaluResumeBot.Domain", "NaluResumeBot.Domain\NaluResumeBot.Domain.csproj", "{EB285F02-7096-4BF2-AC2D-EFBBC29711DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaluResumeBot.Infra", "NaluResumeBot.Infra\NaluResumeBot.Infra.csproj", "{CAF6E0A9-C81C-4468-970C-9D4294F08315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaluResumeBot.Application", "NaluResumeBot.Application\NaluResumeBot.Application.csproj", "{A178191E-E01A-4C36-8E1A-48E8AE8F2483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0506411-AC0E-494D-8C54-7CF6B18AC382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0506411-AC0E-494D-8C54-7CF6B18AC382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0506411-AC0E-494D-8C54-7CF6B18AC382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0506411-AC0E-494D-8C54-7CF6B18AC382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB285F02-7096-4BF2-AC2D-EFBBC29711DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB285F02-7096-4BF2-AC2D-EFBBC29711DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB285F02-7096-4BF2-AC2D-EFBBC29711DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB285F02-7096-4BF2-AC2D-EFBBC29711DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF6E0A9-C81C-4468-970C-9D4294F08315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF6E0A9-C81C-4468-970C-9D4294F08315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF6E0A9-C81C-4468-970C-9D4294F08315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF6E0A9-C81C-4468-970C-9D4294F08315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A178191E-E01A-4C36-8E1A-48E8AE8F2483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A178191E-E01A-4C36-8E1A-48E8AE8F2483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A178191E-E01A-4C36-8E1A-48E8AE8F2483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A178191E-E01A-4C36-8E1A-48E8AE8F2483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
